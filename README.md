@@ -1,1 +1,1 @@
-# tejaswini-website
+# Tejaswini-website
