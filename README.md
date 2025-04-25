@@ -53,7 +53,7 @@
 
   <section class="hero" id="home">
     <h1>Hi, I'm Tejaswini Y</h1>
-    <p>I am looking forward for coding</p>
+    <p>I am looking forward for Phani to live the life</p>
   </section>
 
 </body>
